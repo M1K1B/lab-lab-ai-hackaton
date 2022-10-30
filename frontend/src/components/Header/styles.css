@@ -1,0 +1,24 @@
+.navbar-brand {
+  font-weight: 700;
+  color: var(--pc-dark);
+}
+
+.navbar-brand span {
+  color: var(--pc-red);
+}
+
+.container {
+  padding-block: 20px;
+}
+
+.link {
+  font-size: 18px;
+  font-weight: 400;
+  text-decoration: none;
+  color: var(--pc-dark);
+}
+
+.d-flex {
+  align-items: center;
+  gap: 50px;
+}

@@ -1,0 +1,19 @@
+@import "../../index.css";
+
+button {
+  padding: 10px 20px;
+  border-radius: 100px;
+  border: none;
+  background-color: var(--pc-dark);
+  color: white;
+
+  transition: 0.3s all ease-out;
+}
+
+button:hover {
+  background-color: var(--pc-red);
+}
+
+.icon {
+  font-size: 18px;
+}
